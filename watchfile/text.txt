@@ -1,0 +1,2 @@
+the fs.watchfile works for file
+and the fs.watch works for folder 

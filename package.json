@@ -1,0 +1,19 @@
+{
+  "name": "misc",
+  "version": "1.0.0",
+  "description": "The Miscellaneous repository",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadjumman/misc.git"
+  },
+  "author": "Muhammad Jumman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muhammadjumman/misc/issues"
+  },
+  "homepage": "https://github.com/muhammadjumman/misc#readme"
+}
